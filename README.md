@@ -81,13 +81,7 @@ Ask attendance question: █
 ## 💬 Example Queries
 
 ```
-Ask attendance question: Who has the worst attendance this month?
-Ask attendance question: List all students missing more than 5 days
-Ask attendance question: What is the attendance percentage of Muhammad Asad?
-Ask attendance question: Which batch has the most absences overall?
-Ask attendance question: How many students have less than 70% attendance?
-Ask attendance question: Show me missing dates for Areeba Asif
-Ask attendance question: Which students attended every class in June?
+Ask attendance question: Detail Summary Report
 ```
 
 ---
